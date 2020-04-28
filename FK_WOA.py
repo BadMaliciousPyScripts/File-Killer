@@ -25,9 +25,9 @@ ralp = [
     "`", "´", "&", "+", "{", "}", "µ", "»", "¦", "©", "«", "¬", "¼", "½", "¾",
     "¿", "Á", "Æ", "Ç", "È", "É", "Ê", "Ë", "Í", "Ì", "Î", "Ï", "Ð", "Ñ", "Ò",
     "Ó", "Õ", "×", "Ø", "Ù", "Ú", "Ý", "Þ", "ß", "æ", "ç", "ì", "í", "î", "ï",
-    "÷", "ø", "ù", "ú", "û", "ü", "ý", "þ", "ÿ", "Ŋ", "ŋ", "Œ", "œ", "Ŕ", "ŕ",
-    "Ř", "ř", "Ś", "Ə", "Ǝ", "ƒ", "Ɠ", "ƕ", "ƙ", "ƛ", "Ƣ", "Ʃ", "Ʈ", "ƾ", "ǯ"
+    "÷", "ø", "ù", "ú", "û", "ü", "ý", "þ", "ÿ"
 ]
+## 
 ## m is a variable only to fill some half used if conditions; g is counting the passed files for a output; i is for the random character loop; c is counting the amount of time the will get overwritten; a is counting the skiped folders; fn is the filending for the searched files; l will be filled with random chracters to overwrite the file;
 m = 1
 g = 1
