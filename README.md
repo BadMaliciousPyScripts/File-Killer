@@ -6,7 +6,7 @@
 # Files:
 ### FK.py:
 
-##### It will ask you for every file before overwriting but it isn't overwriting .py files.
+##### It will ask you for every file before overwriting but it isn't overwriting .py files and it will only overwrite files in the same directory.
 
 ### FK_WOA.py:
 
